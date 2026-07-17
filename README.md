@@ -2690,7 +2690,7 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 </details>
 
 ## [Tura](https://github.com/Tura-AI/tura)
-Local open-source coding agent with CLI, TUI, and GUI workflows
+Tura is a local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it.
 
 <details>
 
